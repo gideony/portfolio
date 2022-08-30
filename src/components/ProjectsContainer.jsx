@@ -1,18 +1,19 @@
+
+
 const ProjectsContainer = () => {
-    return (
-      <section className="projects-container">
-        <h2>Projetos</h2>
-        <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore at
-          rem fugit provident dolorum exercitationem, ducimus quisquam ratione
-          cumque reiciendis accusamus totam, veniam iusto numquam distinctio.
-          Dignissimos labore aspernatur pariatur?
-        </p>
-        <a href="#" className="btn">
-          Ver Projetos
-        </a>
-      </section>
-    );
-  };
-  
-  export default ProjectsContainer;
+  return (
+    <section className="projects-container">
+      <h2>Projetos</h2>
+      <p>
+        já realizei projetos individuais e projetos em equipes com as seguintes
+        tecnologias HTML, CSS, JavaScript e React.js juntamente com Node.js,
+        Hooks, Styled-Components, APIs e Comandos do Git e GitHub
+      </p>
+      <a href="https://github.com/gideony" className="btn">
+        Ver Projetos
+      </a>
+    </section>
+  );
+};
+
+export default ProjectsContainer;
