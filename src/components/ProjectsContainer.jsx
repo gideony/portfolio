@@ -9,9 +9,6 @@ const ProjectsContainer = () => {
         tecnologias HTML, CSS, JavaScript e React.js juntamente com Node.js,
         Hooks, Styled-Components, APIs e Comandos do Git e GitHub
       </p>
-      <a href="https://github.com/gideony" className="btn">
-        Ver Projetos
-      </a>
     </section>
   );
 };
