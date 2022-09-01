@@ -1,6 +1,6 @@
 
 meu portfolio com as tecnologias que aprendi e as soft skil
-
+em desenvolvimento
 
 # Portfolio
 
